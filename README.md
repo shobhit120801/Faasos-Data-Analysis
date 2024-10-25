@@ -27,7 +27,5 @@ Welcome to the FAASOS online roll restaurant data analysis project! This reposit
 
 FAASOS is an online roll restaurant that offers a variety of veg and non-veg rolls. This project includes a series of SQL queries to analyze different aspects of the restaurant's operations, including customer orders, driver performance, and order delivery times.
 
-## Setup
 
-To set up the database and insert sample data, run the following SQL scripts in your PostgreSQL environment:
 
